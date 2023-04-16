@@ -12,3 +12,8 @@ def messages_page(request):
         'Threads': threads
     }
     return render(request, 'messages.html', context)
+
+
+def get_object(self):
+    a=5
+    return a
