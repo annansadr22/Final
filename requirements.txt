@@ -50,7 +50,7 @@ twisted-iocpsupport==1.0.3
 txaio==23.1.1
 typing_extensions==4.5.0
 tzdata==2022.7
-urllib3==1.26.14
+urllib3==1.26.18
 uvicorn==0.21.1
 watchfiles==0.19.0
 websockets==11.0.1
